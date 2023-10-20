@@ -1,16 +1,23 @@
-### Hi there 👋
+# Seja bem vindo ao meu perfil! 👋
 
-<!--
-**guilhermefix/guilhermefix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img alt="Firebase" height="200" width="800" src="https://media2.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif">
+</p>
 
-Here are some ideas to get you started:
+### 👤 Me chamo `Guilherme Fix`, possuo 19 anos
+### 📚 Formado no curso técnico em `eletroeletrônica` e estudante de `engenharia da computação`!
+### 💼 Hoje trabalho com `desenvolvimento` de `sistemas embarcados`!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+### **Ferramentas que utilizo**
+
+<div align="center">
+  <img alt="Arduino" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img alt="C++" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="C" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="Flutter" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img alt="Firebase" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+</div>
+
+          
