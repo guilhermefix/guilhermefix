@@ -7,9 +7,9 @@
 ### 👤 Me chamo `Guilherme Fix`, possuo 20 anos
 ### 📚 Minhas formações são:
 
-# - Curso Técnico em Eletroeletrônica
-# - Curso Técnico em Desenvolvimento de Sistemas (em progresso)
-# - Engenharia de Computação (em progresso)
+- Curso Técnico em Eletroeletrônica
+- Curso Técnico em Desenvolvimento de Sistemas (em progresso)
+- Engenharia de Computação (em progresso)
 
 ### 💼 Hoje trabalho com `desenvolvimento` de `sistemas embarcados`!
 
