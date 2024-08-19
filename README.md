@@ -4,8 +4,13 @@
   <img alt="Firebase" height="200" width="800" src="https://media2.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif">
 </p>
 
-### 👤 Me chamo `Guilherme Fix`, possuo 19 anos
-### 📚 Formado no curso técnico em `eletroeletrônica` e estudante de `engenharia da computação`!
+### 👤 Me chamo `Guilherme Fix`, possuo 20 anos
+### 📚 Minhas formações são:
+
+# - Curso Técnico em Eletroeletrônica
+# - Curso Técnico em Desenvolvimento de Sistemas (em progresso)
+# - Engenharia de Computação (em progresso)
+
 ### 💼 Hoje trabalho com `desenvolvimento` de `sistemas embarcados`!
 
 <hr>
